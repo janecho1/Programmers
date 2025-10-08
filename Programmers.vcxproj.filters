@@ -18,5 +18,8 @@
     <ClCompile Include="공배수.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="n의배수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
