@@ -27,5 +27,8 @@
     <ClCompile Include="n번째원소부터.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="첫번째로나오는음수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
