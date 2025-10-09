@@ -127,6 +127,7 @@
     <ClCompile Include="n번째원소부터.c" />
     <ClCompile Include="n의배수.c" />
     <ClCompile Include="공배수.c" />
+    <ClCompile Include="문자열붙여서출력하기.c" />
     <ClCompile Include="첫번째로나오는음수.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
